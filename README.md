@@ -1,0 +1,3 @@
+# Configurations diverses pour BASH
+
+Quelques éléments de configuration pour mon shell, tmux, ...
